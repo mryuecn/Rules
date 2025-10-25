@@ -1,0 +1,8 @@
+rules:
+  - DOMAIN-SUFFIX,cloudflare.com,DIRECT
+  - DOMAIN-SUFFIX,argotunnel.com,DIRECT
+  - DOMAIN-SUFFIX,appstorrent.ru,DIRECT
+  - DOMAIN-SUFFIX,themoviedb.org,DIRECT
+  - DOMAIN-SUFFIX,tmdb.org,DIRECT
+  - DOMAIN-SUFFIX,asusgo.com,DIRECT
+  - DOMAIN-SUFFIX,argotunnel.com,DIRECT
